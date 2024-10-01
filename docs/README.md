@@ -91,9 +91,8 @@ Além disso, adultos em geral, que podem não reconhecer que estão desenvolvend
 
 ## Etapa de Entendimento
 
-**✳️✳️✳️ APRESENTE OS ARTEFATOS DA ETAPA  ✳️✳️✳️**
+![PPLCC-M - G12 - Vícios (Aposta, Drogas) 2 (1)](https://github.com/user-attachments/assets/c900fe73-82e1-460b-a460-143acd05fb31)
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
 >
