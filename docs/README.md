@@ -73,9 +73,9 @@ prevenção do vício em apostas pode resultar em menos custos sociais e de saú
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+Adolescentes e jovens adultos são uma preocupação significativa, pois frequentemente são expostos a jogos de azar, especialmente por meio de plataformas online e aplicativos. Esse grupo pode ser vulnerável à normalização das apostas como uma forma de entretenimento.
 
-> ⚠️ *APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+Além disso, adultos em geral, que podem não reconhecer que estão desenvolvendo um vício, também fazem parte do público-alvo. Muitas vezes, esses indivíduos apostam como uma forma de escape ou para lidar com estresse, sem perceber as consequências negativas.
 >
 > Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 >
