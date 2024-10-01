@@ -78,6 +78,8 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 ## Histórias de Usuários
 
+![PPLCC-M - G12 - Vícios (Aposta, Drogas) 2 - Exploração 1](https://github.com/user-attachments/assets/853c7dba-3c06-4c4c-8b5d-bb1240a8f3d0)
+
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 | EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
