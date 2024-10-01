@@ -34,14 +34,6 @@ dos indivíduos, mas também suas relações sociais e financeiras. As consequê
 da saúde mental, estresse familiar e, em casos extremos, até suicídio. A falta de informação e a normalização das apostas em
 várias mídias dificultam o reconhecimento do problema e a busca por ajuda.
 
->
-> Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
->
-> **Orientações**:
->
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -49,12 +41,7 @@ várias mídias dificultam o reconhecimento do problema e a busca por ajuda.
 os fatores que contribuem para o desenvolvimento desse vício. • Oferecer estratégias de prevenção e recursos de apoio para
 pessoas afetadas e suas famílias. • Promover uma discussão sobre políticas públicas que possam ajudar na regulamentação das
 apostas e na proteção dos indivíduos vulneráveis.
->
-> Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Orientações**:
->
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
@@ -63,14 +50,6 @@ aborde este tema. A falta de conscientização e educação sobre os riscos das 
 muitas vezes, irreversíveis. Além disso, a sociedade em geral se beneficia ao lidar proativamente com esse problema, pois a
 prevenção do vício em apostas pode resultar em menos custos sociais e de saúde pública. Público-Alvo
 
->
-> Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Orientações**:
->
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -78,14 +57,6 @@ Adolescentes e jovens adultos são uma preocupação significativa, pois frequen
 
 Além disso, adultos em geral, que podem não reconhecer que estão desenvolvendo um vício, também fazem parte do público-alvo. Muitas vezes, esses indivíduos apostam como uma forma de escape ou para lidar com estresse, sem perceber as consequências negativas.
 >
-> Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
->
-> **Orientações**:
->
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
 
 # Product Discovery
 
@@ -94,14 +65,6 @@ Além disso, adultos em geral, que podem não reconhecer que estão desenvolvend
 ![PPLCC-M - G12 - Vícios (Aposta, Drogas) 2 (2)](https://github.com/user-attachments/assets/699bbcf4-42ee-4008-ba13-a3548f825bdd)
 
 
-
->
-> Nessa etapa, vamos trabalhar com a metdologia de Design Thinking para compreender com maior profundidade o problema a ser tratado. Nesse processo, vamos elaborar:
->
-> * **Matriz CSD**: também conhecida por Matriz de Alinhamento, é uma ferramenta utilizada no Design Thinking para organizar informações e facilitar o processo de tomada de decisão e solução de problemas;
-> * **Mapa de stakeholders**: ferramenta que nos permite compreender o grupo de pessoas e entidades que devemos estudar e conversar para entender mais sobre o problema
-> * **Entrevistas qualitativas**: série de entrevistas qualitativas para validar suposições e solucionar as dúvidas com as principais pessoas envolvidas;
-> * **Highlights de pesquisa**: um compilado do levantamento realizado por meio das entrevistas.
 
 ## Etapa de Definição
 
