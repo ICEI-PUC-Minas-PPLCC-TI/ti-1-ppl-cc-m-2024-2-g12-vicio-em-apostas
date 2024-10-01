@@ -75,7 +75,7 @@ prevenção do vício em apostas pode resultar em menos custos sociais e de saú
 
 **✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+> ⚠️ *APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Descreva quais são as pessoas que usarão a sua aplicação indicando os diferentes perfis. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 >
