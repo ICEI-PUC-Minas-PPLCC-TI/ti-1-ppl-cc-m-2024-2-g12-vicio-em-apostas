@@ -123,7 +123,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ## Projeto de Interface
 
-Artefatos relacionados com a interface e a interacão do usuário na proposta de solução.
+![image](https://github.com/user-attachments/assets/35839f22-11ed-4d04-8e38-5cd963b929bd)
+
 
 ### Wireframes
 
