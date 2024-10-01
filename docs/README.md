@@ -84,7 +84,8 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 ## Proposta de Valor
 
-![image](https://github.com/user-attachments/assets/0f575725-8984-49bd-8f8f-50779f33e8de)
+![image](https://github.com/user-attachments/assets/9755f1f8-c1d5-4159-b94d-b9555dd8c908)
+
 
 **✳️✳️✳️ APRESENTE O DIAGRAMA DA PROPOSTA DE VALOR PARA CADA PERSONA ✳️✳️✳️**
 
