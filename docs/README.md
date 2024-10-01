@@ -28,9 +28,11 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+** O vício em apostas se manifesta como um comportamento compulsivo que afeta não apenas a saúde mental e física
+dos indivíduos, mas também suas relações sociais e financeiras. As consequências incluem dívidas exorbitantes, deterioração
+da saúde mental, estresse familiar e, em casos extremos, até suicídio. A falta de informação e a normalização das apostas em
+várias mídias dificultam o reconhecimento do problema e a busca por ajuda.
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
 >
@@ -42,9 +44,10 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
-
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
+**O principal objetivo deste projeto é: • Conscientizar a população sobre os riscos associados ao vício em apostas. • Identificar
+os fatores que contribuem para o desenvolvimento desse vício. • Oferecer estratégias de prevenção e recursos de apoio para
+pessoas afetadas e suas famílias. • Promover uma discussão sobre políticas públicas que possam ajudar na regulamentação das
+apostas e na proteção dos indivíduos vulneráveis.
 >
 > Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
 >
@@ -54,9 +57,11 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**Justificativa A crescente incidência de vício em apostas, especialmente entre jovens, justifica a necessidade de um projeto que
+aborde este tema. A falta de conscientização e educação sobre os riscos das apostas pode levar a consequências sérias e,
+muitas vezes, irreversíveis. Além disso, a sociedade em geral se beneficia ao lidar proativamente com esse problema, pois a
+prevenção do vício em apostas pode resultar em menos custos sociais e de saúde pública. Público-Alvo
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
 > Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 >
