@@ -7,6 +7,7 @@ Informações básicas do projeto.
 * **Membros da equipe:**
 * Lucas Gabriel
 * Marcos Sávio
+* Rodrigo Coelho
 
 
 
